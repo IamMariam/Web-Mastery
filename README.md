@@ -8,7 +8,4 @@ The program prioritizes **hands-on learning**, immersing students in **real-worl
 
 
 
-
-This repository contains my personal scripts, write-ups, and solutions for the challenges and exercises provided during the **Web Mastery Training Boot Camp** — a 36-week intensive program focused on **Web Security & Exploitation**.
-
-I’ll be uploading my code as I progress through the boot camp, tackling hands-on challenges, real-world attack scenarios, and skill-building exercises.
+This repository contains my personal scripts, write-ups, and solutions for the challenges and exercises provided during the **Web Mastery Training Boot Camp**.
